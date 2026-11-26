@@ -1,6 +1,6 @@
 ### Hi, I'm Alvanza (`@oszavla`) 👋
 
-I am a **Graduate Student in Theoretical Physics** focusing on the intersection of **Quantum Field Theory in Curved Spacetime**, **Relativistic Quantum Mechanics**, and **Quantum Information**. Alongside research, I build scientific simulations, mathematical visualizations, and structured physics education materials.
+I am a **Graduate Student in Theoretical Physics** focusing on the intersection of **Quantum Field Theory in Curved Spacetime** and **Relativistic Quantum Mechanics**. Alongside research, I build scientific simulations, mathematical visualizations, quantum information, and structured physics education materials.
 
 ---
 
